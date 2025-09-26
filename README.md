@@ -10,7 +10,7 @@ A full-stack web application that tracks, calculates, and visualizes sustainabil
 * Server API: Node.js backend with environment configuration for secure data management.
 * Modular Design: Clear separation of frontend (public) and backend (private/server) logic.
 
-## 🛠Prerequisites
+## Prerequisites
 
 * Node.js 16+ (with npm)
 * Modern web browser for PWA features
